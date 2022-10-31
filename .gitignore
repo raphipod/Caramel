@@ -7,5 +7,3 @@
 .minecraft/server-resource-packs
 .minecraft/mods/*.jar
 .minecraft/.fabric
-
-instance.cfg
