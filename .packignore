@@ -1,8 +1,11 @@
+.git
+.gitignore
 .minecraft/coremods
 .minecraft/logs/2022-10-31-1.log.gz
+.minecraft/logs/2022-10-31-2.log.gz
 .minecraft/logs/latest.log
+.minecraft/mods
 .minecraft/saves/test
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/usercache.json
-instance.cfg
