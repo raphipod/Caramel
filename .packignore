@@ -1,0 +1,8 @@
+.minecraft/coremods
+.minecraft/logs/2022-10-31-1.log.gz
+.minecraft/logs/latest.log
+.minecraft/saves/test
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/usercache.json
+instance.cfg
