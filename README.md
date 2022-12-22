@@ -31,4 +31,7 @@ It's packaged in the MMC format, so all Minecraft Launchers should be able to im
 - **SmoothBoot** (optimizes Minecraft's loading performance for lower end PC's)
 - **Starlight** (Optimization for Minecraft's lighting engine)
 
+By standard, this pack has selected all the lowest settings as to give it the most FPS - you may edit your
+settings to your wish!
+
 There should be a single release of Caramel for every Minecraft version that comes out in the future.
