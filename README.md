@@ -6,6 +6,7 @@ First of all, Caramel is not a custom Minecraft client. It's a vanilla Fabric mo
 that keeps the changes to a minimum, and makes Minecraft an enjoyable experience once again.
 
 It's packaged in the MMC format, so all Minecraft Launchers should be able to import it!
+(Only tested with PrismLauncher/MultiMC)
 
 ### It...
 
