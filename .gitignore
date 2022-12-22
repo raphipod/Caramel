@@ -1,9 +1,0 @@
-.minecraft/usercache.json
-
-.minecraft/coremods
-.minecraft/saves
-.minecraft/logs
-.minecraft/screenshots
-.minecraft/server-resource-packs
-.minecraft/mods/*.jar
-.minecraft/.fabric
