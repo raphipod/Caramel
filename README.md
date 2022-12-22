@@ -17,7 +17,7 @@ It's packaged in the MMC format, so all Minecraft Launchers should be able to im
 ## Modlist:
 
 - **BetterF3** (with custom config for better performance)
-- **Dynamic FPS** (reduces ingame FPS if cursor is out of the window)
+- **Dynamic FPS** (reduces ingame FPS if cursor is out of the window/focus is lost)
 - **EntityCulling**
 - **Sodium**
 - **Iris** (shader support)
