@@ -1,4 +1,4 @@
-# ![Caramel-Icon](https://github.com/raphipod/Caramel/blob/master/.minecraft/icon.png) **Caramel**
+# ![Caramel-Icon](https://github.com/raphipod/Caramel/blob/master/icon.png) **Caramel**
 
 ## **What's Caramel?**
 
