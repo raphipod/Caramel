@@ -2,7 +2,7 @@
 
 ## **What's Caramel?**
 
-First of all, Caramel is not a custom Minecraft client. It's a vanilla Fabric modpack, 
+First of all, Caramel is not a custom Minecraft client. It's a vanilla Fabric modpack with custom configs, 
 that keeps the changes to a minimum, and makes Minecraft an enjoyable experience once again.
 
 It's packaged in the MMC format, so all Minecraft Launchers should be able to import it!
