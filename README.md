@@ -20,12 +20,12 @@ It's packaged in the MMC format, so all Minecraft Launchers should be able to im
 - **BetterF3** (with custom config for better performance)
 - **Dynamic FPS** (reduces ingame FPS if cursor is out of the window/focus is lost)
 - **EntityCulling**
+- **Exordium** (slower HUD rendering)
+- **FastAnim** (faster entity anim rendering)
 - **Sodium**
 - **Iris** (shader support)
-- **LambDynamicLights** (Torches emit light)
 - **LanguageReload** (faster language reload)
 - **LazyDFU** (faster world loading/creation)
-- **ModMenu**
 - **MouseTweaks**
 - **NoTelemetry** (blocks Microsoft's tracking requests)
 - **Reese's Sodium Options**
