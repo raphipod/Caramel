@@ -5,6 +5,9 @@
 First of all, Caramel is not a custom Minecraft client. It's a vanilla Fabric modpack with custom configs, 
 that keeps the changes to a minimum, and makes Minecraft an enjoyable experience once again.
 
+The goal is a high framerate and due to the ever rising system requirements every new version, 
+this hopefully enables players with weaker systems to play the game with a playable framerate.
+
 It's packaged in the MMC format, so all Minecraft Launchers should be able to import it!
 (Only tested with PrismLauncher/MultiMC)
 
@@ -21,9 +24,9 @@ It's packaged in the MMC format, so all Minecraft Launchers should be able to im
 - **Dynamic FPS** (reduces ingame FPS if cursor is out of the window/focus is lost)
 - **EntityCulling**
 - **Exordium** (slower HUD rendering)
-- **FastAnim** (faster entity anim rendering)
 - **Sodium**
 - **Iris** (shader support)
+- **ImmediatelyFast** (custom framebuffer implementation & uploads data to GPU more efficiently)
 - **LanguageReload** (faster language reload)
 - **LazyDFU** (faster world loading/creation)
 - **MouseTweaks**
