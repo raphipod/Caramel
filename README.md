@@ -39,3 +39,6 @@ By standard, this pack has selected all the lowest settings as to give it the mo
 settings to your wish!
 
 There should be a single release of Caramel for every Minecraft version that comes out in the future.
+
+Those releases are tested and known to be compatible with the assigned MC version.
+You may update Caramael with the newest mod updates, though no support is given if any errors occur.
