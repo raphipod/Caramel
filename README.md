@@ -23,7 +23,6 @@ It's packaged in the MMC format, so all Minecraft Launchers should be able to im
 - **BetterF3** (with custom config for better performance)
 - **Dynamic FPS** (reduces ingame FPS if cursor is out of the window/focus is lost)
 - **EntityCulling**
-- **Exordium** (slower HUD rendering)
 - **Sodium**
 - **Iris** (shader support)
 - **ImmediatelyFast** (custom framebuffer implementation & uploads data to GPU more efficiently)
@@ -32,7 +31,6 @@ It's packaged in the MMC format, so all Minecraft Launchers should be able to im
 - **MouseTweaks**
 - **NoTelemetry** (blocks Microsoft's tracking requests)
 - **Reese's Sodium Options**
-- **SmoothBoot** (optimizes Minecraft's loading performance for lower end PC's)
 - **Starlight** (Optimization for Minecraft's lighting engine)
 
 By standard, this pack has selected all the lowest settings as to give it the most FPS - you may edit your
