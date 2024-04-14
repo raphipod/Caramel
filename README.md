@@ -27,8 +27,6 @@ It's packaged in the MMC format, so all Minecraft Launchers should be able to im
 - **Iris** (shader support)
 - **ImmediatelyFast** (custom framebuffer implementation & uploads data to GPU more efficiently)
 - **LanguageReload** (faster language reload)
-- **LazyDFU** (faster world loading/creation)
-- **MouseTweaks**
 - **NoTelemetry** (blocks Microsoft's tracking requests)
 - **Reese's Sodium Options**
 - **Starlight** (Optimization for Minecraft's lighting engine)
